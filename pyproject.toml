@@ -29,7 +29,7 @@ classifiers = [
 ]
 
 dependencies = [
-  "bluprints@git+https://github.com/MrArgparse/breppy",
+  "bluprints@git+https://github.com/MrArgparse/bluprints",
   "breppy@git+https://github.com/MrArgparse/breppy",
   "duppy@git+https://github.com/MrArgparse/duppy",
   "msgspec",
